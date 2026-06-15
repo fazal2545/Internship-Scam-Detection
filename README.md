@@ -6,8 +6,8 @@ This project uses Natural Language Processing (NLP) techniques to detect fraudul
 - Fesal (CIT-214-01-0074) 
 ## Objectives 
 - Detect scam internship advertisements.
-- - Compare ML and DL models.
-  - - Develop a web application. 
+- Compare ML and DL models.
+- Develop a web application. 
 ## Technologies 
 - Python
 - Scikit-learn
