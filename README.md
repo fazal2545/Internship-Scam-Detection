@@ -1,3 +1,6 @@
+![image alt]()
+
+
 # Internship Scam Detection
 
 Detecting fraudulent internship and job advertisements with Natural Language Processing.
