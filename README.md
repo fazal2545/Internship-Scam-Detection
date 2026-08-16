@@ -1,4 +1,4 @@
-![image alt]()
+![image alt](https://github.com/fazal2545/Internship-Scam-Detection/blob/52c69469b4be3d77afdcf5c4c8091ce497bfd091/application/Screenshot%202026-08-16%20192854.png)
 
 
 # Internship Scam Detection
