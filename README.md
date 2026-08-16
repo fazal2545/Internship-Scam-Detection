@@ -64,3 +64,4 @@ The full dataset is not tracked — download it and place it at
 
 ## Structure
 
+![image alt](https://github.com/fazal2545/Internship-Scam-Detection/blob/08eca336c0d7db90cc1a1655f76b53240d256796/reports/nlp_pipeline_figure.png)
