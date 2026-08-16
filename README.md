@@ -35,6 +35,8 @@ other, so the F1 spread reflects threshold placement rather than discriminative 
 the fraud signal in this corpus is predominantly lexical, which favours TF-IDF over
 sequence models.
 
+![image alt](https://github.com/fazal2545/Internship-Scam-Detection/blob/7507f558043c27e2603d68e86b09a298b74eb1ec/reports/Screenshot%202026-08-16%20172211.png)
+
 
 
 ## Team
