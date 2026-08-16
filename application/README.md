@@ -54,5 +54,6 @@ explainer is required; the highlighted terms are the actual basis of the decisio
 
 The BiLSTM and GRU models are research outputs only and are not loaded by the app.
 See `notebooks/` and `models/README.md`.
+![image alt](https://github.com/fazal2545/Internship-Scam-Detection/blob/277cc6df32f3e1d85570607a0445acae1edcb8a3/application/Screenshot%202026-08-16%20192854.png)
 
 
